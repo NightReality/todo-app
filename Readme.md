@@ -1,6 +1,8 @@
 # Todo - React Native
 ## Setup
+### Install
 > npm install
+### Run
 > npx expo start
 
 ## Use expo application on mobile to scan QR
